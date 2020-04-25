@@ -2,6 +2,8 @@
 
 A simple raytracer written in Haskell.
 
+![](example.png)
+
 ## Compiling
 
 Simple compile Main.hs, e.g `$ ghc Main.hs -o main`
